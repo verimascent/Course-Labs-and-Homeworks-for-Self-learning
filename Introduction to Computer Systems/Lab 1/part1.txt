@@ -14,7 +14,8 @@ complement 8 bit number? Explain.
     2^8 / 2 - 1 = 2^7 - 1 = 127
     Since 8 bits provide 256 possible sequences, and the two possible
     values of the high-order bit, which indicates whether the value is
-    interpreted as negative, are both 0.5, the sets of negative values and non-negative values both contain 128 elements. The largest positive
+    interpreted as negative, are both 0.5, the sets of negative values and
+    non-negative values both contain 128 elements. The largest positive
     value is 127, after 0 taking its reserved seat in the non-negative
     set.
 
